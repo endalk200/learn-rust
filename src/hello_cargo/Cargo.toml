@@ -1,0 +1,10 @@
+[package]
+# The next three lines set the configuration information Cargo needs to compile 
+# your program: the name, the version, and the edition of Rust to use. 
+name = "hello_cargo"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
